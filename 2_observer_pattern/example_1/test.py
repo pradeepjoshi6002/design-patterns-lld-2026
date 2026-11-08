@@ -13,3 +13,6 @@ ws.add(tvD)
 
 ws.set_data(temperature=20)
 
+ws.remove(mobD)
+
+ws.set_data(10)
